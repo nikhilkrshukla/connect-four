@@ -1,0 +1,81 @@
+body {
+  background-color:#BDC3C7;
+}
+.home {
+  align-content: left;
+}
+.container {
+  background-color: white;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  border-radius: 10px;
+}
+a:link {
+  text-decoration: none;
+}
+.play {
+  background-color: #FF1700;
+  padding: 10px;
+  width: 70px;
+  text-align: center;
+  margin: 80%;
+  color: white;
+  border-radius: 10px;
+}
+.customGame {
+  background-color: #009AF0;
+  padding: 30px;
+  /* width: 100%; */
+  text-align: center;
+  margin: 20px;
+  color: white;
+  border-radius: 10px;
+  font-size: 20;
+}
+.twoPlayers {
+  background-color: #231FC4 ;
+  padding: 30px;
+  text-align: center;
+  margin: 20px;
+  color: white;
+  border-radius: 10px;
+}
+.gameOnline {
+  background-color: #5400D3;
+  padding: 30px;
+  /* width: 140px; */
+  text-align: center;
+  margin: 20px;
+  color: white;
+  border-radius: 10px;
+}
+.trainingGame {
+  background-color: #8F2CDC;
+  padding: 30px;
+  /* width: 140px; */
+  text-align: center;
+  margin: 20px;
+  color: white;
+  border-radius: 10px;
+}
+.menu {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.headbar {
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  color: white;
+}
+.top {
+  display: flex;
+}
+.Img {
+  width: 50%;
+  height: 50%;
+  margin-left: 30%;
+}
