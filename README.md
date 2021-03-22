@@ -1,2 +1,3 @@
 # connect-four
-Created with CodeSandbox
+in construction
+📎 https://oh4wj.csb.app
